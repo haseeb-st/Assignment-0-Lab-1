@@ -18,7 +18,8 @@ public class HelloWorld
     public static void main(String[] args) 
     {
         System.out.println ("Hello World\n");
-        System.out.println ("\nIs this thing on...?");
+        System.out.println ("\nIs this thing on...?\n");
+        System.out.println ("It does seem to be on!");
         // TODO code application logic here
     }
     
